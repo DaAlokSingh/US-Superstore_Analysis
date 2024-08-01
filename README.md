@@ -71,5 +71,5 @@ Sales by Customer Segment
 Average Orders by Days of Week
 
 Files
-Superstore_Data_Analysis.xlsx: The Excel file containing the Power BI dashboards.
+Superstore_Data_Analysis.xlsx: The Excel file containing the Data.
 Superstore_Data_Analysis.pdf: The PDF version of the Power BI dashboards.
